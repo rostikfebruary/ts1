@@ -138,7 +138,7 @@ class Square extends Shape{
 
 const shapes:Shape[] = [
     new Triangle(1, 2, 5),
-    new Square(2, 5)
+    new Square(4, 5)
 ]
 
 console.log(shapes)
