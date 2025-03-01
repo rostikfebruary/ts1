@@ -86,7 +86,7 @@ class Car implements IElectric {
     }
 }
 
-const car1 = new Car('Mercedes', 5, 2025, 3.1)
+const car1 = new Car('Mercedess', 5, 2025, 3.1)
 console.log(car1)
 car1.getInfo()
 car1.getLedStatus()
